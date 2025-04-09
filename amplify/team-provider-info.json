@@ -1,15 +1,23 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-footballchat-dev-53f79-authRole",
-      "UnauthRoleArn": "arn:aws:iam::544234170512:role/amplify-footballchat-dev-53f79-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::544234170512:role/amplify-footballchat-dev-53f79-authRole",
+      "AuthRoleName": "amplify-footballchat-dev-be9e3-authRole",
+      "UnauthRoleArn": "arn:aws:iam::544234170512:role/amplify-footballchat-dev-be9e3-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::544234170512:role/amplify-footballchat-dev-be9e3-authRole",
       "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-footballchat-dev-53f79-deployment",
-      "UnauthRoleName": "amplify-footballchat-dev-53f79-unauthRole",
-      "StackName": "amplify-footballchat-dev-53f79",
-      "StackId": "arn:aws:cloudformation:us-east-1:544234170512:stack/amplify-footballchat-dev-53f79/382d0ec0-14f7-11f0-8d79-12e4ebc73c53",
-      "AmplifyAppId": "d2qp584x0lzz35"
+      "DeploymentBucketName": "amplify-footballchat-dev-be9e3-deployment",
+      "UnauthRoleName": "amplify-footballchat-dev-be9e3-unauthRole",
+      "StackName": "amplify-footballchat-dev-be9e3",
+      "StackId": "arn:aws:cloudformation:us-east-1:544234170512:stack/amplify-footballchat-dev-be9e3/15ff2e70-14fa-11f0-9bd6-128cdbc1b2bf",
+      "AmplifyAppId": "d33p84s9xmrg31"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d33p84s9xmrg31",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
