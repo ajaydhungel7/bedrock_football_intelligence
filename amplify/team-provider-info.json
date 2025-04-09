@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-footballchat-dev-53f79-authRole",
+      "UnauthRoleArn": "arn:aws:iam::544234170512:role/amplify-footballchat-dev-53f79-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::544234170512:role/amplify-footballchat-dev-53f79-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-footballchat-dev-53f79-deployment",
+      "UnauthRoleName": "amplify-footballchat-dev-53f79-unauthRole",
+      "StackName": "amplify-footballchat-dev-53f79",
+      "StackId": "arn:aws:cloudformation:us-east-1:544234170512:stack/amplify-footballchat-dev-53f79/382d0ec0-14f7-11f0-8d79-12e4ebc73c53",
+      "AmplifyAppId": "d2qp584x0lzz35"
+    }
+  }
+}
